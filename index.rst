@@ -19,6 +19,8 @@ GUI and beginners
    2fa
    multisig
    coldstorage
+   hardware-linux
+   tails
 
 Advanced users
 --------------
